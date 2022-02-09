@@ -56,7 +56,7 @@ p {
     margin-bottom: 0;
     font-size: 14px;
     font-weight: 300;
-    color: #9fa3a7;
+    color: #26272d;
     line-height: 22px;
 }
 
@@ -779,7 +779,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/hero.jpg) no-repeat center / cover; 
+    background: url(../img/näppäimistö.jpg) no-repeat center / cover; 
     height: 100%;
     width: 100%;
     display: table;
@@ -1589,4 +1589,8 @@ a.linkedin-bg:hover {
 .section-map {
   height: 500px;
   width: 100%
+}
+.row-counter-item {
+    align-items: center;
+    margin-left: 32%;
 }
