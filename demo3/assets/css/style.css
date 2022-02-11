@@ -1591,6 +1591,6 @@ a.linkedin-bg:hover {
   width: 100%
 }
 .row-counter-item {
-    align-items: center;
-    margin-left: 32%;
+    display: flex;
+    justify-content: center;
 }
