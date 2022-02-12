@@ -1594,3 +1594,12 @@ a.linkedin-bg:hover {
     display: flex;
     justify-content: center;
 }
+#laptop{
+    width: 415px;
+    height: 300px;
+}
+#game-event{
+    width: 450px;
+    height: auto;
+    margin-left: 40%;
+}
