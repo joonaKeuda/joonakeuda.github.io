@@ -27,6 +27,9 @@ body{
     height: max-content;
 }
 
+.grid-content{
+    transform: translateY(-60px);
+}
 
 .images:hover{
     transform:translateY(-15px);
@@ -72,12 +75,3 @@ h2{
         box-shadow: 5px 5px 15px 5px black;
     }
 }
-
-@media only screen and (max-width : 479px) {
-    
-    body{
-        width: 100%;
-        height: 100%;
-    }
- 
- }
